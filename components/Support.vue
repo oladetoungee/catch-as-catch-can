@@ -1,0 +1,76 @@
+<template>
+  <div class="support">
+    <div class="support-info">
+      <div class="support-heading">
+        <h1 class="support-heading">We offer 24/7 <br />customer support</h1>
+      </div>
+      <div class="support-text">
+        Having challenges on how to take advantage <br />
+        of SHiiP for your business?
+      </div>
+    </div>
+    <div class="support-details">
+      <div>
+        <img src="~assets/images/support.svg" alt="" class="support-img" />
+      </div>
+      <div class="support-links">
+        <div class="link-img">
+          <img src="~assets/images/headset.svg" alt="" />
+        </div>
+        <div class="link-info">
+          Click <nuxt-link to="" class="support-link">here</nuxt-link> to chat
+          with a rep or send an <br />
+          email to
+          <nuxt-link to="" class="support-link">hello@goshiip.com</nuxt-link>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
+<script>
+export default {};
+</script>
+<style>
+.support {
+  margin: 80px;
+  display: flex;
+  justify-content: space-between;
+}
+.support-info {
+  margin-top: 150px;
+}
+.support-heading {
+  color: #1b202a;
+}
+.support-text {
+  font-size: 20px;
+  line-height: 46px;
+  color: #55585e;
+}
+.support-img {
+  border-radius: 30px;
+}
+.support-details {
+  position: relative;
+}
+.support-links {
+  background-color: #ffffff;
+  box-shadow: 0px 40px 80px rgba(164, 164, 164, 0.17);
+  border-radius: 24px;
+  padding: 24px 40px 24px 24px;
+  width: 350px;
+  position: absolute;
+  top: 440px;
+  right: 280px;
+}
+.link-info {
+  font-size: 16px;
+  line-height: 24px;
+  color: #55585e;
+  margin-top: 10px;
+}
+.support-link {
+  text-decoration: none;
+  color: #005fc5;
+}
+</style>
