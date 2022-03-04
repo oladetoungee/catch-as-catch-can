@@ -5,6 +5,10 @@
     <Benefit/>
     <Support/>
     <Advert/>
+    <Setup/>
+    <Partners/>
+    <Businesses/>
+    <Footerr/>
   </div>
 </template>
 

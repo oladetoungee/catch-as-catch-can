@@ -14,13 +14,14 @@ export default {
 </script>
 <style>
     .advert {
-        margin-block: 80px;
+        margin:100px 80px;
     }
     .advert-info {
     font-size: 40px;
     line-height: 65px;
     text-align: center;
     color: #000000;
+    
     
     }
 </style>
