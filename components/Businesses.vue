@@ -58,10 +58,10 @@
       <div class="markets">
              <img src="~assets/images/circle.svg" alt="" class="circle" />
               <img src="~assets/images/jumia.svg" alt="" class="jumia" />
-               <img src="~assets/images/jiji.svg" alt="" class="image-main" />
-                <img src="~assets/images/slot.svg" alt="" class="image-main" />
-                 <img src="~assets/images/seller.svg" alt="" class="image-main" />
-                  <img src="~assets/images/konga.svg" alt="" class="image-main" />
+               <img src="~assets/images/jiji.svg" alt="" class="jiji" />
+                <img src="~assets/images/slot.svg" alt="" class="slot" />
+                 <img src="~assets/images/seller.svg" alt="" class="seller" />
+                  <img src="~assets/images/konga.svg" alt="" class="konga" />
                   
         </div>
       
@@ -77,7 +77,11 @@
 export default {};
 </script>
 <style>
+.circle {
+    width: 350px;
+}
 .platform-info {
+    margin: 50px 20px;
     display: flex;
 }
 .business-p1 {
