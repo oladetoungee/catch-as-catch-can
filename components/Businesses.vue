@@ -57,11 +57,11 @@
       </div>
       <div class="markets">
              <img src="~assets/images/circle.svg" alt="" class="circle" />
-              <img src="~assets/images/jumia.svg" alt="" class="jumia" />
-               <img src="~assets/images/jiji.svg" alt="" class="jiji" />
-                <img src="~assets/images/slot.svg" alt="" class="slot" />
-                 <img src="~assets/images/seller.svg" alt="" class="seller" />
-                  <img src="~assets/images/konga.svg" alt="" class="konga" />
+              <img src="~assets/images/jumia.svg" alt="" class="jumia bus" />
+               <img src="~assets/images/jiji.svg" alt="" class="jiji bus" />
+                <img src="~assets/images/slot.svg" alt="" class="slot bus" />
+                 <img src="~assets/images/seller.svg" alt="" class="seller bus" />
+                  <img src="~assets/images/konga.svg" alt="" class="konga bus" />
                   
         </div>
       
@@ -77,12 +77,53 @@
 export default {};
 </script>
 <style>
+.businesses {
+  margin: 50px 0;
+}
 .circle {
     width: 350px;
 }
+.bus {
+  width: 200px;
+}
+.markets {
+  position: relative;
+}
+.jumia {
+  position: absolute;
+  left: 2px;
+  top: 30px;
+
+
+}
+.konga {
+  position: absolute;
+  left: 200px;
+  top: 30px;
+
+}
+.jiji {
+  position: absolute;
+  left: -50px;
+  top: 200px;
+
+}
+.slot {
+  position: absolute;
+  left: 90px;
+  top: 300px;
+
+}
+.seller {
+  position: absolute;
+  left: 200px;
+  top: 200px;
+
+}
 .platform-info {
-    margin: 50px 20px;
+    margin: 50px 50px;
     display: flex;
+    justify-content: space-between;
 }
 .business-p1 {
     font-weight: 500;

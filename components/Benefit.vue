@@ -165,7 +165,7 @@ body {
 .benefit-item {
   padding: 20px;
   border: 1px solid #ded8d8;
-  width: 450px;
+  width: 400px;
   height: 550px;
   border-radius: 33px;
 }
