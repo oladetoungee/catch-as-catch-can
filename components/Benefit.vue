@@ -38,13 +38,13 @@
           alt=""
           class="image-shadow"
         />
-        <h3 class="benefit-topic">Compare Delivery Fees</h3>
+        <h3 class="benefit-topic">Affordable rates</h3>
         <p class="benefit-info">
-          You can see and compare delivery fees from over 50 companies and get
-          the best rates from them. Delivery companies like DHL Express, GIG,
-          FedEx/Redstar, USPS, Gokada, Kwik, Barimike, and so much more are
-          available on SHiiP.
-          <nuxt-link to="" class="benefit-links">Try it now!</nuxt-link>
+          At M'Gee Tutors, it’s our goal to make our  tutoring services affordable, convenient available to students everywhere,
+           we provide economically-disadvantaged high school and primary school students with standard curriculum 
+           which they might not get in their various underserved schools.
+
+          <nuxt-link to="" class="benefit-links">Book us now!</nuxt-link>
         </p>
       </div>
        <div class="benefit-item">
@@ -54,13 +54,12 @@
           alt=""
           class="image-shadow"
         />
-        <h3 class="benefit-topic">Compare Delivery Fees</h3>
+        <h3 class="benefit-topic">We are going Global.</h3>
         <p class="benefit-info">
-          You can see and compare delivery fees from over 50 companies and get
-          the best rates from them. Delivery companies like DHL Express, GIG,
-          FedEx/Redstar, USPS, Gokada, Kwik, Barimike, and so much more are
-          available on SHiiP.
-          <nuxt-link to="" class="benefit-links">Try it now!</nuxt-link>
+          We are expanding in markets across states in Nigeria and we are starting with Ogun State and Oyo State. We also plan to partner with schools and other educational institutions to have masterclasses at intervals for students who might not necessarily be a part of us. 
+          Our mission is to establish similar centers across Nigeria and Africa as a whole. 
+            
+          <nuxt-link to="" class="benefit-links">Book us now!</nuxt-link>
         </p>
       </div>
        <div class="benefit-item">
@@ -70,13 +69,11 @@
           alt=""
           class="image-shadow"
         />
-        <h3 class="benefit-topic">Compare Delivery Fees</h3>
+        <h3 class="benefit-topic">Personal Interest Facilitation</h3>
         <p class="benefit-info">
-          You can see and compare delivery fees from over 50 companies and get
-          the best rates from them. Delivery companies like DHL Express, GIG,
-          FedEx/Redstar, USPS, Gokada, Kwik, Barimike, and so much more are
-          available on SHiiP.
-          <nuxt-link to="" class="benefit-links">Try it now!</nuxt-link>
+           We are facilitated enough not just to help them with their academics but also to help them discover
+            and grow their personal interests, entrepreneurial skills, leadership skills, vocational training and talent development.
+          <nuxt-link to="" class="benefit-links">Book us now!</nuxt-link>
         </p>
       </div>
        <div class="benefit-item">
@@ -86,13 +83,11 @@
           alt=""
           class="image-shadow"
         />
-        <h3 class="benefit-topic">Compare Delivery Fees</h3>
+        <h3 class="benefit-topic">Online Classes</h3>
         <p class="benefit-info">
-          You can see and compare delivery fees from over 50 companies and get
-          the best rates from them. Delivery companies like DHL Express, GIG,
-          FedEx/Redstar, USPS, Gokada, Kwik, Barimike, and so much more are
-          available on SHiiP.
-          <nuxt-link to="" class="benefit-links">Try it now!</nuxt-link>
+         We are equally available for students whose locations do not match our current study centres, for this reason, 
+         we have a platform where online classes can be available for students that are not in our current geographical location. 
+          <nuxt-link to="" class="benefit-links">Book us now!</nuxt-link>
         </p>
       </div>
        <div class="benefit-item">
@@ -102,13 +97,11 @@
           alt=""
           class="image-shadow"
         />
-        <h3 class="benefit-topic">Compare Delivery Fees</h3>
+        <h3 class="benefit-topic">Home Tutoring</h3>
         <p class="benefit-info">
-          You can see and compare delivery fees from over 50 companies and get
-          the best rates from them. Delivery companies like DHL Express, GIG,
-          FedEx/Redstar, USPS, Gokada, Kwik, Barimike, and so much more are
-          available on SHiiP.
-          <nuxt-link to="" class="benefit-links">Try it now!</nuxt-link>
+          We have several parents and guardians that prefer that to have their children tutored in the comfort of their homes, so consequently,
+           we have selected tutors that visit to home to these students to tutor them.
+          <nuxt-link to="" class="benefit-links">Book us now!</nuxt-link>
         </p>
       </div>
        <div class="benefit-item">
@@ -118,13 +111,11 @@
           alt=""
           class="image-shadow"
         />
-        <h3 class="benefit-topic">Compare Delivery Fees</h3>
+        <h3 class="benefit-topic">Library Services</h3>
         <p class="benefit-info">
-          You can see and compare delivery fees from over 50 companies and get
-          the best rates from them. Delivery companies like DHL Express, GIG,
-          FedEx/Redstar, USPS, Gokada, Kwik, Barimike, and so much more are
-          available on SHiiP.
-          <nuxt-link to="" class="benefit-links">Try it now!</nuxt-link>
+          We have libraries at our differnt study centers for our students and other students to use to 
+          complement their academic books and also to give them the chance to explore knowledge.
+          <nuxt-link to="" class="benefit-links">Book us now!</nuxt-link>
         </p>
       </div>
     </div>
