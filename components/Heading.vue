@@ -5,7 +5,7 @@
            
         </div>
         <div class="header-nav">
-            <ul class="nav-list">
+            <!-- <ul class="nav-list">
              <div class="drop"> 
                    <li class="nav-item"><nuxt-link to="">Home</nuxt-link></li>
                   
@@ -27,11 +27,11 @@
                    
               </div>
               
-            </ul>
+            </ul> -->
         </div>
         <div class="header-auth">
-            <li class="log-in"><nuxt-link to="">Log in</nuxt-link></li>
-            <button class="get-started">Get Started</button>
+            <!-- <li class="log-in"><nuxt-link to="">Log in</nuxt-link></li> -->
+            <button class="get-started">BOOK M'GEE TUTORS</button>
         </div>
     </div>
 </template>

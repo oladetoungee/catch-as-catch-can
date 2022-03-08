@@ -2,16 +2,15 @@
     <div class="intro">
         <div class="intro-text">
             <h1>
-                A better way to do <br/>your local and international <br/> deliveries
+               Creating a platform where <br/> learners can undergo tutorial classes <br/>  to facilitate academic excellence. 
             </h1>
             <p class="intro-info">
-               SHiiP is a platform that helps take care of your <br/>
-                delivery and waybill while you have more time to <br/>
-                handle business and serve your customers better. 
+               M’Gee Tutors is an initiative that gives every learner a chance <br/> 
+               using methods that match their unique learning styles <br/> irrespective of their academic background or performance.
             </p>
             <div class="intro-btns">
-                <button class="started">Get started with SHiiP</button>
-                <nuxt-link class="explore" to="">Explore Documentation</nuxt-link>
+                <button class="started">Get started with M'Gee</button>
+                <nuxt-link class="explore" to="">Book a Session with us Today</nuxt-link>
             </div>
         </div>
         <div class="intro-img">

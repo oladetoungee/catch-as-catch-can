@@ -1,6 +1,6 @@
 <template>
   <div class="benefit-container">
-    <h4 class="benefit-heading">Benefits of doing your Delivery with SHiiP</h4>
+    <h4 class="benefit-heading">Why M'Gee Tutors?</h4>
     <div class="benefit-items">
       <div class="benefit-item">
         <img src="~assets/images/wallet-check.svg" alt="" class="image-main" />
@@ -9,13 +9,11 @@
           alt=""
           class="image-shadow"
         />
-        <h3 class="benefit-topic">Compare Delivery Fees</h3>
+        <h3 class="benefit-topic">Personalized Learning Plan</h3>
         <p class="benefit-info">
-          You can see and compare delivery fees from over 50 companies and get
-          the best rates from them. Delivery companies like DHL Express, GIG,
-          FedEx/Redstar, USPS, Gokada, Kwik, Barimike, and so much more are
-          available on SHiiP.
-          <nuxt-link to="" class="benefit-links">Try it now!</nuxt-link>
+         Every student can learn, but not every student can learn the same way. At M'Gee Tutors, we give our students the individualized attention
+         they might not get in their various traditional classrooms.
+          <nuxt-link to="" class="benefit-links">Book us now!</nuxt-link>
         </p>
       </div>
        <div class="benefit-item">
@@ -25,13 +23,12 @@
           alt=""
           class="image-shadow"
         />
-        <h3 class="benefit-topic">Compare Delivery Fees</h3>
+        <h3 class="benefit-topic">Effective Tutors</h3>
         <p class="benefit-info">
-          You can see and compare delivery fees from over 50 companies and get
-          the best rates from them. Delivery companies like DHL Express, GIG,
-          FedEx/Redstar, USPS, Gokada, Kwik, Barimike, and so much more are
-          available on SHiiP.
-          <nuxt-link to="" class="benefit-links">Try it now!</nuxt-link>
+          Our tutors are patient, strategic, encouraging, ethusiastic and professional. 
+          They create a personalized learning plan for each student and build a curriculum 
+          that’s in line with the student’s particular goals.
+          <nuxt-link to="" class="benefit-links">Book us now!</nuxt-link>
         </p>
       </div>
        <div class="benefit-item">
