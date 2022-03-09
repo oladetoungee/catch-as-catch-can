@@ -5,16 +5,15 @@
     </div>
     <div class="partner-info">
       <p class="partner-p1">
-        Never lose a local or <br />
-        international customer again <br />
-        …no matter their location!
+        Do you want to have <br />
+        your child tutored, <br />
+        in the comfort of your home?
       </p>
       <p class="partner-p2">
-        We’ve partnered with multiple local and international <br />
-        delivery companies with affordable prices to <br />
-        help you deliver to anywhere in the world
+        We’ve got you covered <br />
+        with our team of professional and trustworthy tutors 
       </p>
-      <div class="images">
+      <!-- <div class="images">
            <img class="image" src="~assets/images/dhl.svg" alt="" />
             <img class="image" src="~assets/images/barimike.svg" alt="" />
              <img class="image" src="~assets/images/kwik.svg" alt="" />
@@ -27,7 +26,7 @@
             <img class="image" src="~assets/images/star.svg" alt="" />
              <img class="image" src="~assets/images/us.svg" alt="" />
               
-      </div>
+      </div> -->
     </div>
   </div>
 </template>

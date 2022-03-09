@@ -5,8 +5,8 @@
     <Benefit/>
     <Support/>
     <Advert/>
-    <Setup/>
     <Partners/>
+     <Setup/>
     <Businesses/>
     <Footerr/>
   </div>

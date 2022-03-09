@@ -2,23 +2,23 @@
     <div class="set-up">
         <div class="setup-infos">
             <div class="setup-info-heading">
-               <p>It’s simple and easy <br/> to set up</p>
+               <p>Welcome to GeeTutor,<br/> this is home!</p>
             
             </div>
              <div class="setup-info">
                 <img src="~assets/images/Line.svg" alt="">
-                 <p class="setup-p">Download the SHiiP App on Apple store or Play Store, <br/> or visit the Web App.</p>
+                 <p class="setup-p">Get started with us <br/> and book a session.</p>
             </div>
              <div class="setup-info info-fade">
                   <img src="~assets/images/Line.svg" alt="">
-                 <p class="setup-p">Sign up and set up your profile.</p>
+                 <p class="setup-p">Carefully select the plan that works best for you.</p>
             </div>
             <div class="setup-info info-fade">
                  <img src="~assets/images/Line.svg" alt="">
-                 <p class="setup-p">Book your delivery and share the tracking links with <br/> your customers right away!</p>
+                 <p class="setup-p">Get access to our private list of tutor <br/> and choose the best tutor for your child</p>
             </div>
             <div >
-                <button class="setup-btn"> Find out more</button>
+                <button class="setup-btn"> Get Started</button>
             </div>
         </div>
         <div class="setup-img">

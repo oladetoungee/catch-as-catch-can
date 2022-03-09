@@ -1,9 +1,9 @@
 <template>
     <div class="advert">
         <h2 class="advert-info">
-            Doing your local & international deliveries with SHiiP is as  easy as <br/>
-            counting from A to Z, because SHiiP is the most advanced <br/>
-            delivery platform in Nigeria.
+            At GeeTutor, you can handpick the best tutor for your child <br/>
+            Meet as many tutors as you like for free until you’ve found the perfect match.<br/>
+            
         </h2>
     </div>
 </template>

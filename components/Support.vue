@@ -2,11 +2,10 @@
   <div class="support">
     <div class="support-info">
       <div class="support-heading">
-        <h1 class="support-heading">We offer 24/7 <br />customer support</h1>
+        <h1 class="support-heading">We offer online  <br />tutorial classes</h1>
       </div>
       <div class="support-text">
-        Having challenges on how to take advantage <br />
-        of SHiiP for your business?
+        Would you prefer to take our online classes?
       </div>
     </div>
     <div class="support-details">
@@ -18,10 +17,10 @@
           <img src="~assets/images/headset.svg" alt="" />
         </div>
         <div class="link-info">
-          Click <nuxt-link to="" class="support-link">here</nuxt-link> to chat
-          with a rep or send an <br />
+          Click <nuxt-link to="" class="support-link">here</nuxt-link> to 
+          schedule an online session or send an
           email to
-          <nuxt-link to="" class="support-link">hello@goshiip.com</nuxt-link>
+          <nuxt-link to="" class="support-link">mgeetutors@gmail.com</nuxt-link>
         </div>
       </div>
     </div>
@@ -41,6 +40,8 @@ export default {};
 }
 .support-heading {
   color: #1b202a;
+  font-size: 100px;
+  line-height: 100px;
 }
 .support-text {
   font-size: 20px;
