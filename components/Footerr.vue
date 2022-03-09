@@ -3,12 +3,11 @@
     <div class="footer">
     <div class="footer-info">
       <p class="footer-p1">
-        Start doing your local/international <br />
-        delivery with SHiiP
+        Join hundreds of parents <br />
+       whose kids are reaching their academic peaks at GeeTutor
       </p>
       <p class="footer-p2">
-        Create a free account in less than 5 minutes <br />
-        and start shipping!
+        Get started with us and 
       </p>
       <div class="footer-btns">
         <button class="started">Get started with SHiiP</button>

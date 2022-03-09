@@ -2,13 +2,12 @@
   <div class="businesses">
     <div class="business-info">
       <p class="business-p1">
-        SHiiP works with small, medium and large businesses
+        We are going GLOBAL!
       </p>
       <p class="business-p2">
-        Run your business smoothly by integrating SHiiP API to your <br/> websites,
-        e-commerce stores, or marketplace.
+        With study centers strategically located in three southwestern states of Nigeria, <br/> we won't stop until our centers are all over Africa
       </p>
-      <p class="business-p2">With SHiiP API, you will be able to</p>
+      <p class="business-p2">At our study centers, our students get to enjoy a whole lot of benefits.</p>
     </div>
     <div class="platform-info">
       <div class="benefits">
@@ -24,13 +23,10 @@
             alt=""
             class="image-shadow"
           />
-          <h3 class="benefit-topic">Compare Delivery Fees</h3>
+          <h3 class="benefit-topic">First class Learning Facilities</h3>
           <p class="benefit-info">
-            You can see and compare delivery fees from over 50 companies and get
-            the best rates from them. Delivery companies like DHL Express, GIG,
-            FedEx/Redstar, USPS, Gokada, Kwik, Barimike, and so much more are
-            available on SHiiP.
-            <nuxt-link to="" class="benefit-links">Try it now!</nuxt-link>
+            Amazing facilities are available for student activities, classroom sessions and administrative activities.
+            <nuxt-link to="" class="benefit-links">Book us now!</nuxt-link>
           </p>
         </div>
         <div class="business-benefit benefit-shift">
@@ -44,31 +40,26 @@
             alt=""
             class="image-shadow"
           />
-          <h3 class="benefit-topic">Compare Delivery Fees</h3>
+          <h3 class="benefit-topic">Effecient Library Services</h3>
           <p class="benefit-info">
-            You can see and compare delivery fees from over 50 companies and get
-            the best rates from them. Delivery companies like DHL Express, GIG,
-            FedEx/Redstar, USPS, Gokada, Kwik, Barimike, and so much more are
-            available on SHiiP.
-            <nuxt-link to="" class="benefit-links">Try it now!</nuxt-link>
+            Our libraries are ever open to students for to get the best use of collections to satisfy their information needs.
+            <nuxt-link to="" class="benefit-links">Book us now!</nuxt-link>
           </p>
         </div>
         
       </div>
       <div class="markets">
              <img src="~assets/images/circle.svg" alt="" class="circle" />
-              <img src="~assets/images/jumia.svg" alt="" class="jumia bus" />
-               <img src="~assets/images/jiji.svg" alt="" class="jiji bus" />
-                <img src="~assets/images/slot.svg" alt="" class="slot bus" />
-                 <img src="~assets/images/seller.svg" alt="" class="seller bus" />
-                  <img src="~assets/images/konga.svg" alt="" class="konga bus" />
+              <div class="jumia bus">Abeokuta Study <br/> Center</div>
+              <div class="konga bus">Lagos Study <br/> Center</div>
+              <div class="slot bus">Ibadan Study <br/> Center</div>
                   
         </div>
       
     </div>
     <div class="learn-container">
         <button class="learn-btn">
-          Learn more about SHiiP API Integration
+          Visit us at any of our centers
         </button>
       </div>
   </div>
