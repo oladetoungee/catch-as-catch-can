@@ -7,12 +7,11 @@
        whose kids are reaching their academic peaks at GeeTutor
       </p>
       <p class="footer-p2">
-        Get started with us and 
+        Get started with us and become a part of the family
       </p>
       <div class="footer-btns">
-        <button class="started">Get started with SHiiP</button>
-        <button><img src="~assets/images/play.svg" alt="" /></button>
-        <p class="footer-p2">See a Live Demo</p>
+        <button class="started">Book a session with us today.</button>
+       
       </div>
     </div>
    

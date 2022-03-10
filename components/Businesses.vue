@@ -75,7 +75,10 @@ export default {};
     width: 350px;
 }
 .bus {
-  width: 200px;
+  width: 150px;
+  border-radius: 10px;
+  background-color: white;
+ padding: 10px;
 }
 .markets {
   position: relative;
@@ -83,34 +86,26 @@ export default {};
 .jumia {
   position: absolute;
   left: 2px;
-  top: 30px;
+  top: 50px;
 
 
 }
 .konga {
   position: absolute;
-  left: 200px;
-  top: 30px;
+  left: 150px;
+  top: 150px;
 
 }
-.jiji {
-  position: absolute;
-  left: -50px;
-  top: 200px;
 
-}
+
+
 .slot {
   position: absolute;
-  left: 90px;
-  top: 300px;
+  left: 2px;
+  top: 280px;
 
 }
-.seller {
-  position: absolute;
-  left: 200px;
-  top: 200px;
 
-}
 .platform-info {
     margin: 50px 50px;
     display: flex;

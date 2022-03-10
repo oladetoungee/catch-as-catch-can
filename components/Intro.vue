@@ -35,7 +35,7 @@ export default {
         font-size: 56px;
         line-height: 64px;
        
-        color: #005FC5;  
+        color: #bbb809;  
     }
     .intro-info {
         font-size: 24px;
