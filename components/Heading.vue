@@ -1,7 +1,7 @@
 <template>
     <div class="head">
         <div class="header-logo">
-           <img src="~assets/images/shiiplogo.svg" alt="">
+           <img src="~assets/images/logo1.jpg" alt="">
            
         </div>
         <div class="header-nav">
