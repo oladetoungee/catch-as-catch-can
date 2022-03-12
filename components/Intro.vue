@@ -14,7 +14,7 @@
             </div>
         </div>
         <div class="intro-img">
-
+            <img src="~assets/images/classroom.jpg" alt="">
         </div>
     </div>
 </template>
@@ -25,7 +25,12 @@ export default {
 </script>
 <style>
 .intro {
+    display: flex;
+    justify-content: space-between;
     margin: 60px 0 60px 80px;
+}
+.intro-text {
+    width: 900px;
 }
 .intro-btns {
     margin-top: 10px;
