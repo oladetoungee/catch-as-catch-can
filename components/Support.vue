@@ -10,7 +10,7 @@
     </div>
     <div class="support-details">
       <div>
-        <img src="~assets/images/support.svg" alt="" class="support-img" />
+        <img src="~assets/images/onlineclass.svg" alt="" class="support-img" />
       </div>
       <div class="support-links">
         <div class="link-img">
@@ -36,7 +36,7 @@ export default {};
   justify-content: space-between;
 }
 .support-info {
-  margin-top: 150px;
+  margin-top: 80px;
 }
 .support-heading {
   color: #1b202a;

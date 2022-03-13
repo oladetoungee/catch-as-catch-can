@@ -1,7 +1,7 @@
 <template>
   <div class="partners">
     <div class="map">
-      <img class="map" src="~assets/images/worldmap.svg" alt="" />
+      <img class="map" src="~assets/images/hometutor.svg" alt="" />
     </div>
     <div class="partner-info">
       <p class="partner-p1">
