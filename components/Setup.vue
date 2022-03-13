@@ -44,7 +44,7 @@ export default {
 </script>
 <style>
 .set-up {
-    background-color: #005FC5;
+    background-color: #bbb809;
     display: flex;
     justify-content: space-between;
 }
@@ -74,7 +74,7 @@ border-radius: 16px;
 font-weight: 500;
 /* font-size: 20px; */
 /* line-height: 40px; */
-color: #005FC5;
+color: #bbb809;
 }
 
 .setup-img {

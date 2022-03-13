@@ -142,7 +142,7 @@ border-radius: 33px;
     margin-left: 120px;
 }
 .learn-btn {
-    background: #005FC5;
+    background: #bbb809;
 border-radius: 16px;
 padding: 32px 24px;
 color: #F5F5F5;

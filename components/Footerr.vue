@@ -50,7 +50,7 @@ export default {};
   margin-top: 25px;
 }
 .footer-bottom {
-    background-color: #005FC5;
+    background-color: #bbb809;
     height: 70px;
 }
 </style>

@@ -48,14 +48,14 @@ export default {
         color: #1B202A;
     }
     .started {
-        background-color: #005FC5;
+        background-color: #bbb809;
         border-radius: 16px;
         padding: 16px 24px;
         color: #FFFFFF
     }
     .explore {
         text-decoration: none;
-       color: #005FC5;
+       color: #bbb809;
        margin: 0px 10px;
        line-height: 44px;
 

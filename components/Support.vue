@@ -72,6 +72,6 @@ export default {};
 }
 .support-link {
   text-decoration: none;
-  color: #005fc5;
+  color: #bbb809;
 }
 </style>
