@@ -151,11 +151,18 @@ body {
     gap: 30px;
 }
 .benefit-item {
+  transition: 1s ease;
   padding: 20px;
   border: 1px solid #ded8d8;
   width: 400px;
-  height: 550px;
+  height: 380px;
   border-radius: 33px;
+}
+.benefit-item:hover {
+  -webkit-transform: scale(0.9);
+-ms-transform: scale(0.9);
+transform: scale(0.9);
+transition: 1s ease;
 }
 .benefit-links {
   text-decoration: none;

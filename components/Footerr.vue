@@ -9,16 +9,14 @@
       <p class="footer-p2">
         Get started with us and become a part of the family
       </p>
-      <div class="footer-btns">
+     
+    </div>
+     <div class="footer-btns">
         <button class="started">Book a session with us today.</button>
        
       </div>
-    </div>
-   
   </div>
-   <div class="footer-bottom">
-       
-    </div>
+   
 </div>
   
 </template>
@@ -29,6 +27,7 @@ export default {};
 .footer {
   background-color: black;
   color: #ffffff;
+  padding: 20px;
 }
 .footer-info {
   padding: 50px 10px;
@@ -45,12 +44,8 @@ export default {};
 }
 .footer-btns {
   display: flex;
-  justify-content: space-between;
-  width: 500px;
-  margin-top: 25px;
+  justify-content: flex-end;
+  margin:  40px;
 }
-.footer-bottom {
-    background-color: #bbb809;
-    height: 70px;
-}
+
 </style>

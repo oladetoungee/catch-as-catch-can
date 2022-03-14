@@ -20,7 +20,7 @@ export default {
     font-size: 40px;
     line-height: 65px;
     text-align: center;
-    color: #000000;
+    color: #bbb809;
     
     
     }

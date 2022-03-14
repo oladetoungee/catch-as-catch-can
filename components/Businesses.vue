@@ -75,11 +75,7 @@ export default {};
  padding: 10px;
 }
 
-.platform-info {
-    margin: 50px 50px;
-    display: flex;
-    justify-content: space-between;
-}
+
 .business-p1 {
     font-weight: 500;
 font-size: 40px;
@@ -98,16 +94,24 @@ margin: 5px 0;
 .benefits {
     margin-top: 20px;
     display: flex;
+    justify-content: space-around;
     
     
 }
 .business-benefit {
+  transition: 1s ease;
   padding: 20px;
  width: 387px;
 height: 297px;
 background: #F9F9F9;
 box-shadow: 0px 40px 80px rgba(164, 164, 164, 0.17);
 border-radius: 33px;
+}
+.business-benefit:hover {
+  -webkit-transform: scale(0.9);
+-ms-transform: scale(0.9);
+transform: scale(0.9);
+transition: 1s ease;
 }
 
 .learn-btn {

@@ -10,12 +10,10 @@
     </div>
     <div class="support-details">
       <div>
-        <img src="~assets/images/onlineclass.svg" alt="" class="support-img" />
+        <img src="~assets/images/onlineclass1.jpg" alt="" class="support-img" />
       </div>
       <div class="support-links">
-        <div class="link-img">
-          <img src="~assets/images/headset.svg" alt="" />
-        </div>
+        
         <div class="link-info">
           Click <nuxt-link to="" class="support-link">here</nuxt-link> to 
           schedule an online session or send an
