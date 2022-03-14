@@ -3,12 +3,7 @@
     <h4 class="benefit-heading">Why M'Gee Tutors?</h4>
     <div class="benefit-items">
       <div class="benefit-item">
-        <img src="~assets/images/wallet-check.svg" alt="" class="image-main" />
-        <img
-          src="~assets/images/walletshadow.svg"
-          alt=""
-          class="image-shadow"
-        />
+        
         <h3 class="benefit-topic">Personalized Learning Plan</h3>
         <p class="benefit-info">
          Every student can learn, but not every student can learn the same way. At M'Gee Tutors, we give our students the individualized attention
@@ -17,12 +12,7 @@
         </p>
       </div>
        <div class="benefit-item">
-        <img src="~assets/images/wallet-check.svg" alt="" class="image-main" />
-        <img
-          src="~assets/images/walletshadow.svg"
-          alt=""
-          class="image-shadow"
-        />
+        
         <h3 class="benefit-topic">Effective Tutors</h3>
         <p class="benefit-info">
           Our tutors are patient, strategic, encouraging, ethusiastic and professional. 
@@ -32,12 +22,7 @@
         </p>
       </div>
        <div class="benefit-item">
-        <img src="~assets/images/wallet-check.svg" alt="" class="image-main" />
-        <img
-          src="~assets/images/walletshadow.svg"
-          alt=""
-          class="image-shadow"
-        />
+        
         <h3 class="benefit-topic">Affordable rates</h3>
         <p class="benefit-info">
           At M'Gee Tutors, it’s our goal to make our  tutoring services affordable, convenient available to students everywhere,
@@ -48,12 +33,7 @@
         </p>
       </div>
        <div class="benefit-item">
-        <img src="~assets/images/wallet-check.svg" alt="" class="image-main" />
-        <img
-          src="~assets/images/walletshadow.svg"
-          alt=""
-          class="image-shadow"
-        />
+        
         <h3 class="benefit-topic">We are going Global.</h3>
         <p class="benefit-info">
           We are expanding in markets across states in Nigeria and we are starting with Ogun State and Oyo State. We also plan to partner with schools and other educational institutions to have masterclasses at intervals for students who might not necessarily be a part of us. 
@@ -63,12 +43,7 @@
         </p>
       </div>
        <div class="benefit-item">
-        <img src="~assets/images/wallet-check.svg" alt="" class="image-main" />
-        <img
-          src="~assets/images/walletshadow.svg"
-          alt=""
-          class="image-shadow"
-        />
+        
         <h3 class="benefit-topic">Personal Interest Facilitation</h3>
         <p class="benefit-info">
            We are facilitated enough not just to help them with their academics but also to help them discover
@@ -77,12 +52,7 @@
         </p>
       </div>
        <div class="benefit-item">
-        <img src="~assets/images/wallet-check.svg" alt="" class="image-main" />
-        <img
-          src="~assets/images/walletshadow.svg"
-          alt=""
-          class="image-shadow"
-        />
+        
         <h3 class="benefit-topic">Online Classes</h3>
         <p class="benefit-info">
          We are equally available for students whose locations do not match our current study centres, for this reason, 
@@ -91,12 +61,7 @@
         </p>
       </div>
        <div class="benefit-item">
-        <img src="~assets/images/wallet-check.svg" alt="" class="image-main" />
-        <img
-          src="~assets/images/walletshadow.svg"
-          alt=""
-          class="image-shadow"
-        />
+        
         <h3 class="benefit-topic">Home Tutoring</h3>
         <p class="benefit-info">
           We have several parents and guardians that prefer that to have their children tutored in the comfort of their homes, so consequently,
@@ -105,12 +70,7 @@
         </p>
       </div>
        <div class="benefit-item">
-        <img src="~assets/images/wallet-check.svg" alt="" class="image-main" />
-        <img
-          src="~assets/images/walletshadow.svg"
-          alt=""
-          class="image-shadow"
-        />
+        
         <h3 class="benefit-topic">Library Services</h3>
         <p class="benefit-info">
           We have libraries at our differnt study centers for our students and other students to use to 
@@ -128,7 +88,9 @@ export default {};
 body {
     background-color: #F9F9F9;
 }
-
+.benefit-topic {
+  color: #bbb809;
+}
 
 .benefit-container {
   margin: 80px 60px;
@@ -155,7 +117,7 @@ body {
   padding: 20px;
   border: 1px solid #ded8d8;
   width: 400px;
-  height: 380px;
+  height: 350px;
   border-radius: 33px;
 }
 .benefit-item:hover {

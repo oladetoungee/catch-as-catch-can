@@ -13,16 +13,7 @@
       <div class="benefits">
         
         <div class="business-benefit">
-          <img
-            src="~assets/images/wallet-check.svg"
-            alt=""
-            class="image-main"
-          />
-          <img
-            src="~assets/images/walletshadow.svg"
-            alt=""
-            class="image-shadow"
-          />
+         
           <h3 class="benefit-topic">First class Learning Facilities</h3>
           <p class="benefit-info">
             Amazing facilities are available for student activities, classroom sessions and administrative activities.
@@ -30,16 +21,7 @@
           </p>
         </div>
         <div class="business-benefit">
-          <img
-            src="~assets/images/wallet-check.svg"
-            alt=""
-            class="image-main"
-          />
-          <img
-            src="~assets/images/walletshadow.svg"
-            alt=""
-            class="image-shadow"
-          />
+         
           <h3 class="benefit-topic">Effecient Library Services</h3>
           <p class="benefit-info">
             Our libraries are ever open to students for to get the best use of collections to satisfy their information needs.

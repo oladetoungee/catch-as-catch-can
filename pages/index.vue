@@ -23,5 +23,11 @@ export default {
   html {
     font-family: GT Walsheim Pro;
   }
+  button {
+    opacity: 1;
+  }
+  button:hover {
+    opacity: 0.8;
+  }
   
 </style>
