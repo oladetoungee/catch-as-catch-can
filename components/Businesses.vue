@@ -29,7 +29,7 @@
             <nuxt-link to="" class="benefit-links">Book us now!</nuxt-link>
           </p>
         </div>
-        <div class="business-benefit benefit-shift">
+        <div class="business-benefit">
           <img
             src="~assets/images/wallet-check.svg"
             alt=""
@@ -48,13 +48,7 @@
         </div>
         
       </div>
-      <div class="markets">
-             <img src="~assets/images/circle.svg" alt="" class="circle" />
-              <div class="jumia bus">Abeokuta Study <br/> Center</div>
-              <div class="konga bus">Lagos Study <br/> Center</div>
-              <div class="slot bus">Ibadan Study <br/> Center</div>
-                  
-        </div>
+      
       
     </div>
     <div class="learn-container">
@@ -80,31 +74,6 @@ export default {};
   background-color: white;
  padding: 10px;
 }
-.markets {
-  position: relative;
-}
-.jumia {
-  position: absolute;
-  left: 2px;
-  top: 50px;
-
-
-}
-.konga {
-  position: absolute;
-  left: 150px;
-  top: 150px;
-
-}
-
-
-
-.slot {
-  position: absolute;
-  left: 2px;
-  top: 280px;
-
-}
 
 .platform-info {
     margin: 50px 50px;
@@ -116,7 +85,7 @@ export default {};
 font-size: 40px;
 line-height: 46px;
 text-align: center;
-color: #000000;
+color: #bbb809;
 margin: 15px 0;
 }
 .business-p2 {
@@ -128,21 +97,23 @@ margin: 5px 0;
 }
 .benefits {
     margin-top: 20px;
+    display: flex;
+    
     
 }
 .business-benefit {
-    margin: 30px 70px;
+  padding: 20px;
  width: 387px;
 height: 297px;
 background: #F9F9F9;
 box-shadow: 0px 40px 80px rgba(164, 164, 164, 0.17);
 border-radius: 33px;
 }
-.benefit-shift {
-    margin-left: 120px;
-}
+
 .learn-btn {
     background: #bbb809;
+     border: 1px solid #bbb809;
+        box-shadow: 0px 1px 2px #bbb809;
 border-radius: 16px;
 padding: 32px 24px;
 color: #F5F5F5;

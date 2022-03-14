@@ -51,7 +51,9 @@ export default {
         background-color: #bbb809;
         border-radius: 16px;
         padding: 16px 24px;
-        color: #FFFFFF
+        color: #FFFFFF;
+         border: 1px solid #bbb809;
+        box-shadow: 0px 1px 2px #bbb809;
     }
     .explore {
         text-decoration: none;

@@ -75,7 +75,9 @@ export default {
    }
    .get-started {
        background-color: #bbb809;
-        border-radius: 8px;
+       border: 1px solid #bbb809;
+        box-shadow: 0px 1px 2px #bbb809;
+        border-radius: 8px ;
         color: #FFFFFF;
         padding: 0 25px ;
    }

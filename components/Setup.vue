@@ -22,18 +22,10 @@
             </div>
         </div>
         <div class="setup-img">
-            <div class="ecllipse">
-                <img src="~assets/images/Ellipse.svg" alt="">
-            </div>
-            <div class="ecllipsee">
-                <img src="~assets/images/Ellipse.svg" alt="">
-            </div>
-            <div class="ecllipseee">
-                <img src="~assets/images/Ellipse.svg" alt="">
-            </div>
-            <div class="phone">
-                 <img src="~assets/images/phone.svg" alt="">
-            </div>
+            
+                <img src="~assets/images/books.svg" alt="">
+        
+           
         </div>
     </div>
 </template>
@@ -49,7 +41,7 @@ export default {
     justify-content: space-between;
 }
 .setup-infos {
-    margin: 70px 80px;
+    margin: 30px 80px;
 }
 .info-fade {
     opacity: 0.3;
@@ -75,12 +67,14 @@ font-weight: 500;
 /* font-size: 20px; */
 /* line-height: 40px; */
 color: #bbb809;
+ border: 1px solid #bbb809;
+        box-shadow: 0px 1px 2px #bbb809;
 }
 
 .setup-img {
     position: relative;
     display: flex;
-   margin: 150px 100px ;
+   margin: 30px 100px ;
 }
 .setup-info-heading {
     font-weight: 500;
@@ -89,21 +83,6 @@ font-size: 40px;
 line-height: 48px;
 color: #FFFFFF;
 }
-.phone {
-    position: absolute;
-    right: 70px;
-}
-.ecllipse {
-    position: absolute;
-    left: 5px;
-    top: 70px;
 
-}
-.ecllipsee {
-    position: absolute;
-    left: 5px;
-    top: 20px;
-
-}
 
 </style>
