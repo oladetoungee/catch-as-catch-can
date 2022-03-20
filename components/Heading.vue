@@ -1,7 +1,8 @@
 <template>
     <div class="head">
         <div class="header-logo">
-           <img src="~assets/images/logo1.jpg" alt="">
+           <img class="header-img" src="~assets/images/image 36 (2).jpg" alt="">
+         
            
         </div>
         <div class="header-nav">
@@ -41,6 +42,10 @@ export default {
 }
 </script>
 <style>
+    .header-img {
+        width: 120px;
+        height: 60px;
+    }
     .head {
         display: flex;
         justify-content: space-between;
