@@ -130,6 +130,10 @@ transition: 1s ease;
   text-decoration: none;
   color: #bbb809;
 }
+.benefit-links:hover {
+  text-decoration: none;
+  opacity: 0.7;
+}
 /* .image-main {
   position: absolute;
  
