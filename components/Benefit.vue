@@ -78,6 +78,15 @@
           <nuxt-link to="" class="benefit-links">Book us now!</nuxt-link>
         </p>
       </div>
+       <div class="benefit-item">
+        
+        <h3 class="benefit-topic">Library Services</h3>
+        <p class="benefit-info">
+          We have libraries at our differnt study centers for our students and other students to use to 
+          complement their academic books and also to give them the chance to explore knowledge.
+          <nuxt-link to="" class="benefit-links">Book us now!</nuxt-link>
+        </p>
+      </div>
     </div>
   </div>
 </template>
